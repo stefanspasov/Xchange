@@ -10,6 +10,8 @@
 
         public string ImagePath { get; set; }
 
+        public decimal Price { get; set; }
+
         public Customer Customer { get; set; }
     }
 }

@@ -1,4 +1,4 @@
-﻿@model Data.Models.BoardGame
+﻿@model Xchange.ViewModels.AddVM
 
 @{
     ViewBag.Title = "title";
@@ -7,23 +7,24 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-md-6">
-            @using (Html.BeginForm())
+            @using (Html.BeginForm("Add","Games", FormMethod.Post, new { enctype = "multipart/form-data" }))
             {
-                <p class="col-md-2">
-                    @Html.LabelFor(model => model.Name) @Html.EditorFor(model => model.Name)
-                </p>
-                <p class="col-md-2">
-                    @Html.LabelFor(model => model.Description) @Html.EditorFor(model => model.Description)
-                </p>
-                <p class="col-md-2">
-                    <input type="submit" value="Save" class="btn">
-                </p>
+                <div class="col-md-2">
+                    @Html.LabelFor(model => model.BoardGame.Name) @Html.EditorFor(model => model.BoardGame.Name)
+                </div>
+                <div class="col-md-2">
+                    @Html.LabelFor(model => model.BoardGame.Description) @Html.EditorFor(model => model.BoardGame.Description)
+                </div>
+                <div class="col-md-4">
+                    @Html.TextBoxFor(model => model.File, new { type = "file" })
+                    <input type="submit" value="Upload Image" />
+                    <br><br>
+                    @ViewBag.Message
+                </div>
             }
 
-            <div class="col-sm-1">
+            <div class="col-md-2">
                 @Html.ActionLink("Back", "Index")
             </div>
         </div>
     </div>
-</div>

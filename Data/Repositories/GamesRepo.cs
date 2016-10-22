@@ -19,21 +19,36 @@
                                                         Customer = Customers.FirstOrDefault(c=> c.Id == 1),
                                                         Description = "Lame game",
                                                         Id = 1,
-                                                        Name = "Dominion"
+                                                        Name = "Dominion",
+                                                        ImagePath = "dominion.jpg",
+                                                        Price = 100
+                                                    },
+                                                 new BoardGame
+                                                    {
+                                                        Customer = Customers.FirstOrDefault(c=> c.Id == 1),
+                                                        Description = "Nice game",
+                                                        Id = 3,
+                                                        Name = "Citadels",
+                                                        ImagePath = "citadels.jpg", 
+                                                        Price = 150
                                                     },
                                                 new BoardGame
                                                     {
                                                          Customer = Customers.FirstOrDefault(c=> c.Id == 2),
                                                         Description = "Lamer game",
                                                         Id = 2,
-                                                        Name = "Munchkin"
+                                                        Name = "Munchkin",
+                                                        ImagePath = "munchkin.jpg", 
+                                                        Price = 50
                                                     },
                                                 new BoardGame
                                                     {
-                                                         Customer = Customers.FirstOrDefault(c=> c.Id == 1),
+                                                        Customer = Customers.FirstOrDefault(c=> c.Id == 1),
                                                         Description = "Nice game",
                                                         Id = 3,
-                                                        Name = "Citadels"
+                                                        Name = "Citadels",
+                                                        ImagePath = "citadels.jpg", 
+                                                        Price = 123
                                                     }
                                             };
 
@@ -64,6 +79,7 @@
 
         public static void AddGame(BoardGame game)
         {
+            game.Id = Games.Count + 1;
             Games.Add(game);
         }
     }

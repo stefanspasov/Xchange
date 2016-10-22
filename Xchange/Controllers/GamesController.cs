@@ -1,4 +1,6 @@
-﻿namespace Xchange.Controllers
+﻿using Xchange.ViewModels;
+
+namespace Xchange.Controllers
 {
     using System.Net;
     using System.Web.Mvc;
@@ -66,11 +68,14 @@
 
 
         [HttpPost]
-        public ActionResult Add(BoardGame game)
+        public ActionResult Add(AddVM game)
         {
             if (this.ModelState.IsValid)
             {
-                GamesRepo.AddGame(game);
+                var filePath = "~/Pics/" + game.File.FileName;
+                game.File.SaveAs(Server.MapPath(filePath));
+                game.BoardGame.ImagePath = game.File.FileName;
+                GamesRepo.AddGame(game.BoardGame);
             }
 
             return this.View(game);
