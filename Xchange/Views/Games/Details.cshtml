@@ -1,0 +1,27 @@
+﻿@model Data.Models.BoardGame
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="row text-left">
+        <dl class="col-md-4">
+            <dt>
+                @Html.DisplayFor(model => model.Name)
+            </dt>
+            <dt>
+                @Html.DisplayFor(model => model.Description)
+            </dt>
+            <dt>
+                @Model.Customer.username
+            </dt>
+        </dl>
+    </div>
+    <div class="row text-left">
+            <p class="col-sm-4">
+                @Html.ActionLink("Back", "Index")
+            </p>
+    </div>
+</div>

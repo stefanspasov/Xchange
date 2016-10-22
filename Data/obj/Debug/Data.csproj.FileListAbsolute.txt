@@ -1,0 +1,10 @@
+c:\Users\stespa\documents\visual studio 2015\Projects\Xchange\Data\bin\Debug\Data.dll
+c:\Users\stespa\documents\visual studio 2015\Projects\Xchange\Data\bin\Debug\Data.pdb
+c:\Users\stespa\documents\visual studio 2015\Projects\Xchange\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+c:\Users\stespa\documents\visual studio 2015\Projects\Xchange\Data\obj\Debug\Data.dll
+c:\Users\stespa\documents\visual studio 2015\Projects\Xchange\Data\obj\Debug\Data.pdb
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Data\bin\Debug\Data.dll
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Data\bin\Debug\Data.pdb
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Data\obj\Debug\Data.dll
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Data\obj\Debug\Data.pdb

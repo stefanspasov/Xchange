@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width"/>
+    <title>@ViewBag.Title</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <link href="~/Css/main.css" rel="stylesheet" type="text/css"/>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+    <header class="container">
+        <div class="row">
+            <h1 class="col-sm-4">
+                XCHANGE
+            </h1>
+            <nav class="col-sm-8 text-right">
+                <p>@Html.ActionLink("Home", "Index", "Home", null, null)</p>
+                <p>@Html.ActionLink("Games", "Index", "Games", null, null)</p>
+            </nav>
+        </div>
+    </header>
+    <div>
+        @RenderBody()
+    </div>
+    <footer class="container">
+        <div class="row">
+            <p class="col-sm-4">
+                &copy; STEFAN
+            </p>
+            <ul class="col-sm-8">
+                <li class="col-sm-1"> <img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/twitter.svg"></li>
+                <li class="col-sm-1"> <img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/facebook.svg"></li>
+                <li class="col-sm-1"> <img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/instagram.svg"></li>
+                <li class="col-sm-1"> <img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/medium.svg"></li>
+            </ul>
+        </div>
+    </footer>
+</body>
+</html>

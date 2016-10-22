@@ -1,0 +1,98 @@
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\ApplicationInsights.config
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\roslyn\csc.exe
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\roslyn\System.Collections.Immutable.dll
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\roslyn\vbc.exe
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\roslyn\VBCSCompiler.exe
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\roslyn\VBCSCompiler.exe.config
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\Xchange.dll.config
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\Xchange.dll
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\Xchange.pdb
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\Microsoft.AI.Web.dll
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\Microsoft.AI.WindowsServer.dll
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\Microsoft.ApplicationInsights.dll
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\Microsoft.Web.Infrastructure.dll
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\System.Web.Helpers.dll
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\System.Web.Mvc.dll
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\System.Web.Razor.dll
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\System.Web.Webpages.Deployment.dll
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\System.Web.Webpages.dll
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\System.Web.Webpages.Razor.dll
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\Microsoft.AI.Web.xml
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\Microsoft.AI.WindowsServer.xml
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\Microsoft.ApplicationInsights.xml
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\System.Web.Razor.xml
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\System.Web.Webpages.xml
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\System.Web.Webpages.Deployment.xml
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\System.Web.Webpages.Razor.xml
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\System.Web.Helpers.xml
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\System.Web.Mvc.xml
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\obj\Debug\Xchange.csprojResolveAssemblyReference.cache
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\obj\Debug\Xchange.dll
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\obj\Debug\Xchange.pdb
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\Data.dll
+c:\users\stespa\documents\visual studio 2015\Projects\Xchange\Xchange\bin\Data.pdb
+C:\Users\stespa\Documents\Visual Studio 2015\Projects\Xchange\Xchange\bin\Pics\gamesMain.jpg
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\ApplicationInsights.config
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\roslyn\csc.exe
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\roslyn\vbc.exe
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\roslyn\VBCSCompiler.exe
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\Pics\gamesMain.jpg
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\Xchange.dll.config
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\Xchange.dll
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\Xchange.pdb
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\Data.dll
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\Microsoft.AI.Web.dll
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\Microsoft.ApplicationInsights.dll
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\System.Web.Helpers.dll
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\System.Web.Mvc.dll
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\System.Web.Razor.dll
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\System.Web.Webpages.Deployment.dll
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\System.Web.Webpages.dll
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\System.Web.Webpages.Razor.dll
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\Data.pdb
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\Microsoft.AI.Web.xml
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\Microsoft.ApplicationInsights.xml
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\System.Web.Razor.xml
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\System.Web.Webpages.xml
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\System.Web.Webpages.Deployment.xml
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\System.Web.Webpages.Razor.xml
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\System.Web.Helpers.xml
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\bin\System.Web.Mvc.xml
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\obj\Debug\Xchange.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\obj\Debug\Xchange.dll
+C:\Users\stefan\Downloads\Xchange-20161022T195520Z\Xchange\Xchange\obj\Debug\Xchange.pdb

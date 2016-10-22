@@ -1,0 +1,29 @@
+﻿@model Data.Models.BoardGame
+
+@{
+    ViewBag.Title = "title";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            @using (Html.BeginForm())
+            {
+                <p class="col-md-2">
+                    @Html.LabelFor(model => model.Name) @Html.EditorFor(model => model.Name)
+                </p>
+                <p class="col-md-2">
+                    @Html.LabelFor(model => model.Description) @Html.EditorFor(model => model.Description)
+                </p>
+                <p class="col-md-2">
+                    <input type="submit" value="Save" class="btn">
+                </p>
+            }
+
+            <div class="col-sm-1">
+                @Html.ActionLink("Back", "Index")
+            </div>
+        </div>
+    </div>
+</div>

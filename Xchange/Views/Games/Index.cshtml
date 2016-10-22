@@ -1,0 +1,18 @@
+﻿@model IEnumerable<Data.Models.BoardGame>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container">
+    <div class="row text-center">
+        @foreach (var game in Model)
+        {
+            <div class="col-md-4">
+                @Html.DisplayFor(guz => game.Name)
+                @Html.DisplayFor(guz => game.Description)
+                @game.Customer.username
+                @Html.ActionLink("Details", "Details", new { id = game.Id })
+            </div>
+        }
+    </div>
+</div>
